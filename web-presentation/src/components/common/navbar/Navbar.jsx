@@ -7,7 +7,7 @@ function Navbar() {
     return (
         <>
             <Nav className="NavbarItems">
-                <h1 className="logo">React</h1>
+                <h1 className="logo">SP</h1>
                 <div className="menu-icon"></div>
                 <ul>
                     {
